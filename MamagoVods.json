@@ -11,9 +11,9 @@
       "Division ": "",
       "WeekDescription": "Playoff",
       "Equipe1Name": "Apex Monkeys",
-      "Equipe1Logo": "/images/equipes/season7/division2/apexMoonLight.png",
+      "Equipe1Logo": "./images/equipes/season7/division2/apexMoonLight.png",
       "Equipe2Name": "Red Division",
-      "Equipe2Logo": "/images/equipes/season7/division2/lesTornades.png"
+      "Equipe2Logo": "./images/equipes/season7/division2/lesTornades.png"
 
     }
 
