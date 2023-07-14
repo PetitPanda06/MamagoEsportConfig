@@ -29,6 +29,20 @@
       "Equipe2Name": "Let's go les N3rdz",
       "Equipe2Logo": "./images/equipes/season7/division4/LesNerdz.png"
 
+    },
+     {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": "Cactus Thermique Gaming vs. Apex Based - Grandes Finales",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=6QWjVlY0pfs&ab_channel=MamagoEsportSeason",
+      "Division": "Division 2",
+      "WeekDescription": "Playoff",
+      "Equipe1Name": "Cactus Thermique Gaming",
+      "Equipe1Logo": "./images/equipes/season7/division2/cactusThermiqueGamingt.png",
+      "Equipe2Name": "Apex Based ",
+      "Equipe2Logo": "./images/equipes/season7/division2/apexBased.png"
+
     }
 
   ]
