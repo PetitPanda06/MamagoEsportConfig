@@ -43,6 +43,20 @@
       "Equipe2Name": "Apex Based ",
       "Equipe2Logo": "./images/equipes/season7/division2/apexBased.png"
 
+    },
+     {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": " Apex Monkeys VS Red Division - Quarts de finales",
+      "VodDate": "2022-12-03",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=pDbJfxH_Jvo&t=1844s&ab_channel=MamagoEsportSeason",
+      "Division": "Division 3",
+      "WeekDescription": "Playoff",
+      "Equipe1Name": "Apex Monkeys",
+      "Equipe1Logo": "./images/equipes/season7/division3/ApexMonkey.png",
+      "Equipe2Name": "Red Division",
+      "Equipe2Logo": "./images/equipes/season7/division3/RedDivision.png"
+
     }
 
   ]
