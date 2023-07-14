@@ -1,0 +1,23 @@
+{
+
+  "Vods": [
+
+    {
+      "SeasonCode": "Season8",
+      "SeasonName": "Season 8",
+      "VodName": "Apex Monkeys VS Red Division - Quarts de finales",
+      "VodDate": "2022-12-03",
+      "YoutubeUrl ": "https://www.youtube.com/embed/pDbJfxH_Jvo",
+      "Division ": "",
+      "WeekDescription": "Playoff",
+      "Equipe1Name": "Apex Monkeys",
+      "Equipe1Logo": "/images/equipes/season7/division2/apexMoonLight.png",
+      "Equipe2Name": "Red Division",
+      "Equipe2Logo": "/images/equipes/season7/division2/lesTornades.png"
+
+    }
+
+  ]
+
+
+}
