@@ -3,17 +3,31 @@
   "Vods": [
 
     {
-      "SeasonCode": "Season8",
-      "SeasonName": "Season 8",
-      "VodName": "Apex Monkeys VS Red Division - Quarts de finales",
-      "VodDate": "2022-12-03",
-      "YoutubeUrl": "https://www.youtube.com/embed/pDbJfxH_Jvo",
-      "Division": "",
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": " Red Division vs. Apex Predators - Grandes Finales",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=MGeyM6wp4PY&ab_channel=MamagoEsportSeason",
+      "Division": "Division 3",
       "WeekDescription": "Playoff",
-      "Equipe1Name": "Apex Monkeys",
-      "Equipe1Logo": "./images/equipes/season7/division2/apexMoonLight.png",
+      "Equipe1Name": "Apex Predators",
+      "Equipe1Logo": "./images/equipes/season7/division3/ApexPredator.png",
       "Equipe2Name": "Red Division",
-      "Equipe2Logo": "./images/equipes/season7/division2/lesTornades.png"
+      "Equipe2Logo": "./images/equipes/season7/division3/RedDivision.png"
+
+    },
+    {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": "N9TF Onyx vs. Let's go les N3rdz - Grandes Finales",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=H8c3aWdL5VU&ab_channel=MamagoEsportSeason",
+      "Division": "Division 4",
+      "WeekDescription": "Playoff",
+      "Equipe1Name": "N9TF Onyx",
+      "Equipe1Logo": "./images/equipes/season7/division4/N9TFOnyx.png",
+      "Equipe2Name": "Let's go les N3rdz",
+      "Equipe2Logo": "./images/equipes/season7/division3/LesNerdz.png"
 
     }
 
