@@ -1,0 +1,65 @@
+{
+
+  "Vods": [
+
+    {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": " Red Division vs. Apex Predators",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=MGeyM6wp4PY&ab_channel=MamagoEsportSeason",
+      "Division": "Division 3",
+      "WeekDescription": "Playoff - Grandes Finales",
+      "Equipe1Name": "Apex Predators",
+      "Equipe1Logo": "./images/equipes/season7/ApexPredator.png",
+      "Equipe2Name": "Red Division",
+      "Equipe2Logo": "./images/equipes/season7/RedDivision.png"
+
+    },
+    {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": "N9TF Onyx vs. Let's go les N3rdz ",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=H8c3aWdL5VU&ab_channel=MamagoEsportSeason",
+      "Division": "Division 4",
+      "WeekDescription": "Playoff - Grandes Finales",
+      "Equipe1Name": "N9TF Onyx",
+      "Equipe1Logo": "./images/equipes/season7/N9TFOnyx.png",
+      "Equipe2Name": "Let's go les N3rdz",
+      "Equipe2Logo": "./images/equipes/season7/LesNerdz.png"
+
+    },
+     {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": "Cactus Thermique Gaming vs. Apex Based ",
+      "VodDate": "2022-12-19",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=6QWjVlY0pfs&ab_channel=MamagoEsportSeason",
+      "Division": "Division 2",
+      "WeekDescription": "Playoff -  Grandes Finales",
+      "Equipe1Name": "Cactus Thermique Gaming",
+      "Equipe1Logo": "./images/equipes/season7/cactusThermiqueGamingt.png",
+      "Equipe2Name": "Apex Based ",
+      "Equipe2Logo": "./images/equipes/season7/apexBased.png"
+
+    },
+     {
+      "SeasonCode": "Season7",
+      "SeasonName": "Saison 7",
+      "VodName": " Apex Monkeys VS Red Division ",
+      "VodDate": "2022-12-03",
+      "YoutubeUrl": "https://www.youtube.com/watch?v=pDbJfxH_Jvo&t=1844s&ab_channel=MamagoEsportSeason",
+      "Division": "Division 3",
+      "WeekDescription": "Playoff Quarts de finales",
+      "Equipe1Name": "Apex Monkeys",
+      "Equipe1Logo": "./images/equipes/season7/ApexMonkey.png",
+      "Equipe2Name": "Red Division",
+      "Equipe2Logo": "./images/equipes/season7/RedDivision.png"
+
+    }
+
+  ]
+
+
+}
